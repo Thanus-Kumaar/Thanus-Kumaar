@@ -4,12 +4,7 @@
 </div>
 
 <h2 align="center">About Me  </h2>
-💻 **[Short tagline about you]**  
-🎓 [Your current education status]  
-🎨 Passionate about [specific area of interest, e.g., "creating minimalistic user experiences"].  
-🤖 Aspiring to [field or goal, e.g., "innovate in the fields of Generative AI and Deep Learning"].  
-🏢 Currently working as a [your position, e.g., "Full Stack Intern at [Company Name]"].  
-🎯 [Other personal/professional goals or interests].  
+
 
 ---
 <h2 align="center"> Tech Stack and Tools </h2>
@@ -56,35 +51,22 @@
         <img src="https://skillicons.dev/icons?i=kali" title="Kali Linux"/>
     </div>
 </div>
----
 
-## GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourgithubusername&theme=radical)  
+<h2 align="center"> GitHub Stats </h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Thanus-Kumaar&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Thanus's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanus-Kumaar&theme=gotham&hide_border=true" alt="GitHub Streak" />
+    <br />
+    <div align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanus-Kumaar&theme=react-dark" alt="Github Activity Graph" />
+    </div>
 
----
+</div>
 
-## Contributions Graph  
-[Link or embed contributions graph, e.g., **Ashutosh's GitHub Activity Graph**]  
-
----
-
-## Competitive Coding  
-🚀 **Profiles**:  
-- Codeforces: [Your Codeforces Profile Link]  
-- CodeChef: [Your CodeChef Profile Link]  
-- [Other Competitive Programming Profiles]  
-
----
 
 ## Connect with Me  
-📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-🌐 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)  
-💻 **GitHub**: [yourgithubusername](https://github.com/yourgithubusername)  
-🐦 **Twitter**: [Your Twitter Handle](https://twitter.com/yourtwitterhandle)  
-📷 **Instagram**: [Your Instagram Handle](https://instagram.com/yourinstagramhandle)  
+📧 **Email**: [thanuskumaara@gmail.com](mailto:your-email@example.com)  
+🌐 **LinkedIn**: [Thanus Kumaar](https://www.linkedin.com/in/thanus-kumaar/)  
+💻 **GitHub**: [Thanus-Kumaar](https://github.com/Thanus-Kumaar)  
 
 ---
-
-### Customize this template and make it uniquely yours! 🚀  
