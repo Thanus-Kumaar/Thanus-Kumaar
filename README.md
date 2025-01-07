@@ -3,10 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&width=500&lines=Full+Stack+Developer;Tech+Enthusiast;Full+Stack+Intern+at+LogicfloAI;Always+striving+for+improvement" alt="Typing SVG" />
 </div>
 
-<h2 align="center">About Me  </h2>
+<div align="center">
+  <h2>About Me</h2>
+    <p><strong>💻 Backend Enthusiast</strong> dedicated to building efficient and scalable server-side applications.</p>
+    <p><strong>🎨 Innovator,</strong> combining creativity with technology to deliver user-focused applications.</p>
+    <p><strong>🛠 Solving problems</strong> to create impactful digital solutions driven by curiosity and a methodical approach.</p>
+    <p><strong>📚 Lifelong Learner,</strong> fueled by a passion for growth, embracing challenges as opportunities to expand knowledge and skills.</p>
+    <p><strong>🏢 Currently,</strong> a Full Stack Intern at <em>Logicflo AI</em>.
+  </p>
+</div>
 
-
----
+<br>
 <h2 align="center"> Tech Stack and Tools </h2>
 <div align="center">
     <h3>Programming</h3>
@@ -52,10 +59,11 @@
     </div>
 </div>
 
+<br>
 <h2 align="center"> GitHub Stats </h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Thanus-Kumaar&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Thanus's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanus-Kumaar&theme=gotham&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Thanus-Kumaar&theme=gotham" alt="GitHub Streak" />
     <br />
     <div align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanus-Kumaar&theme=react-dark" alt="Github Activity Graph" />
@@ -63,10 +71,23 @@
 
 </div>
 
-
-## Connect with Me  
-📧 **Email**: [thanuskumaara@gmail.com](mailto:your-email@example.com)  
-🌐 **LinkedIn**: [Thanus Kumaar](https://www.linkedin.com/in/thanus-kumaar/)  
-💻 **GitHub**: [Thanus-Kumaar](https://github.com/Thanus-Kumaar)  
-
----
+<br>
+<h2 align="center">Connect with Me</h2>
+<table align="center">
+  <tr>
+    <td>📧 <strong>Email</strong></td>
+    <td><a href="mailto:thanuskumaara@gmail.com" target="_blank">thanuskumaara@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/thanus-kumaar/" target="_blank">View My LinkedIn Profile</a></td>
+  </tr>
+  <tr>
+    <td>💻 <strong>GitHub</strong></td>
+    <td><a href="https://github.com/Thanus-Kumaar" target="_blank">Explore My GitHub Projects</a></td>
+  </tr>
+  <tr>
+    <td>💼 <strong>Portfolio</strong></td>
+    <td><a href="https://portfolio-gamma-ruddy-68.vercel.app/" target="_blank">Visit My Portfolio</a></td>
+  </tr>
+</table>
