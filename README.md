@@ -9,7 +9,7 @@
     <p><strong>🎨 Innovator,</strong> combining creativity with technology to deliver user-focused applications.</p>
     <p><strong>🛠 Solving problems</strong> to create impactful digital solutions driven by curiosity and a methodical approach.</p>
     <p><strong>📚 Lifelong Learner,</strong> fueled by a passion for growth, embracing challenges as opportunities to expand knowledge and skills.</p>
-    <p><strong>🏢 Currently,</strong> a Full Stack Intern at <em>Logicflo AI</em>.
+    <p><strong>🏢 Past Experince:</strong> Full Stack Intern at <em>Logicflo AI</em>.
   </p>
 </div>
 
